@@ -7,7 +7,7 @@
 library(rainfallR)
 library(dplyr)
 library(ggplot2)
-library(iffitoR)
+library(iffitoR) # load some sample landslide data that comes with the package
 library(sf)
 library(raster)
 
